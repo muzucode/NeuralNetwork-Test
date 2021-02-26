@@ -1,3 +1,3 @@
 # NeuralNetwork-Test
-A simple TensorFlow.Keras-powered Neural Network model script that identifies handwritten numbers.
+A simple TensorFlow.Keras-powered neural network model that identifies handwritten numbers from the MNIST dataset.
 
